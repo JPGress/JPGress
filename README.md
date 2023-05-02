@@ -1,5 +1,5 @@
 ## Hello friend
-- 👋 Hi, I’m Gress.
+- 👋 Hi, I’m **PEDRO GRESS**.
 - 👀 I’m interested in **OffSec and Data Protection**. I have a special focus on **OSINT, OpSec, and Social Engineering**.
 - 🌱 I’m currently learning **JavaScript** and **Python** to further develop my hacking skills, as well as exploring new techniques and tools in the field of cybersecurity.
 - 💻 I have experience in vulnerability analysis and penetration testing, and I'm always looking for new challenges to improve my skills
